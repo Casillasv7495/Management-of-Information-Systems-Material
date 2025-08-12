@@ -8,7 +8,7 @@ The model illustrates how organizations respond to business challenges through s
 
 > Inspired by common IS frameworks (e.g., Laudon & Laudon, *Management Information Systems*).
 
-## Steps in the Model
+#### Steps in the Model
 1. **Business Challenge** — Competition, new technology, or market shifts.
 2. **Strategic Planning & Collaboration** —  
    - *Management:* Defines strategy and selects technology.  
@@ -19,7 +19,7 @@ The model illustrates how organizations respond to business challenges through s
 
 ---
 
-## License
+##### License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
