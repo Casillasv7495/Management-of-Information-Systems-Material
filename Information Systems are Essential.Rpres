@@ -13,7 +13,7 @@ Agenda:
 
 - MIS Top 5 Changes (Berisha-Shaqiri, 2015; Laudon & Laudon, 2023, p.6-7)
 
-- Going Global(Gupta, 2024)
+- Going Global (Gupta, 2024)
 
 - Going Digital Fully (Al-Samawi, 2019)
 
@@ -66,7 +66,7 @@ Term you should Know
 - Digital Firm 
 - Business Processes
 - Business Model
-   
+
 References
 ===========================================
 - Al-Samawi, Y. (2019). Digital firm: requirements, recommendations, and evaluation the success in digitization. International Journal of Information Technology and Computer Science, 11(1), 39-49.
@@ -80,5 +80,5 @@ Thank you!
 ==========================================
 Your feedback is valuable!
 
-# Please fill in my online feedback survey.
+Please fill in my online feedback survey.
 
