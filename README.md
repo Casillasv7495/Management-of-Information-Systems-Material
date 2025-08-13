@@ -1,8 +1,8 @@
 # Management-of-Information-Systems-Material
 Management of Information Systems Material
 
-This repository contains a generalized flow model for teaching Information Systems concepts.  
-The model illustrates how organizations respond to business challenges through strategic planning, collaboration, technology adoption, and the information system lifecycle to achieve measurable improvements in performance.
+Welcome to this repository designed to support teaching and research in Information Systems.  
+The materials here offer a comprehensive, generalized framework for understanding how businesses address challenges through information systems strategy, technology adoption, and organizational collaboration.
 
 ![Business Flow Diagram](diagram.png)
 
@@ -17,7 +17,15 @@ The model illustrates how organizations respond to business challenges through s
 3. **Information System Lifecycle** — Build → Test → Deploy.
 4. **Business Impact** — Increased sales, better service, and improved operations.
 
----
+## Contents
+
+- **diagrams/**: Original diagrams illustrating core concepts.  
+- **slides/**: Slide decks and presentation outlines for classroom use.  
+- **lectures/**: Detailed lecture notes and scripts.  
+- **exercises/**: Case studies, quizzes, and student activities.  
+- **references/**: Bibliography and annotations for key literature.  
+- **data/**: Sample datasets used in exercises or demonstrations.  
+- **templates/**: Downloadable worksheets and templates for classroom use.
 
 ##### License
 
