@@ -1,7 +1,6 @@
 Information Systems Are Essential
 ======================================
 author: Vanessa Arias Casillas, PhD
-autosize: true
 
 Introduction: 
 ========================================================
@@ -72,9 +71,13 @@ References
 - Al-Samawi, Y. (2019). Digital firm: requirements, recommendations, and evaluation the success in digitization. International Journal of Information Technology and Computer Science, 11(1), 39-49.
 - Berisha-Shaqiri, Aferdita. (2015). Management Information System and Competitive Advantage. Mediterranean Journal of Social Sciences. 6. 10.5901/mjss.2015.v6n1p204. 
 - Gleick, J. (2011). The information: a history, a theory, a flood. Pantheon Books
-- Gupta, Anuradha & Prakash, Chandra & Andrabi, Syed. (2024). Examine the Possibilities and Obstacles of Global Business Expansion. Journal of Informatics Education and Research. 4. 635. 
+- Gupta, Anuradha & Prakash, Chandra & Andrabi, Syed. (2024). Examine the Possibilities and Obstacles of Global Business Expansion. Journal of Informatics Education and Research. 4. 635.
+
+References (cont.)
+===========================================
 - Laudon, K. C., & Laudon, J. P. (2021). Management Information Systems: Managing the Digital Firm (17th ed.). Pearson Education (US). https://online.vitalsource.com/books/9780136971627
 - Zhang, Xiaojuan. (2013). The Evolution of Management Information Systems: A Literature Review. Journal of Integrated Design and Process Science. 17. 59-88. 10.3233/jid-2013-0009. 
+
 
 Thank you!
 ==========================================
