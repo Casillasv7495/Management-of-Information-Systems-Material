@@ -1,5 +1,5 @@
 # Management-of-Information-Systems-Material
-Management of Information Systems Material
+Management of Information Systems Material (NOTE: WORK IN PROGRESS... MANY MISSPELLINGS AND GRAMMAR MISTAKES IN ALL SECTIONS)
 
 Welcome to this repository designed to support teaching and research in Information Systems.  
 The materials here offer a comprehensive, generalized framework for understanding how businesses address challenges through information systems strategy, technology adoption, and organizational collaboration.
