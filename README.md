@@ -4,7 +4,7 @@ Management of Information Systems Material (NOTE: WORK IN PROGRESS... MANY MISSP
 Welcome to this repository designed to support teaching and research in Information Systems.  
 The materials here offer a comprehensive, generalized framework for understanding how businesses address challenges through information systems strategy, technology adoption, and organizational collaboration.
 
-![Business Flow Diagram](diagram.png)
+![Business Flow Diagram](Images/diagram.png)
 
 > Inspired by common IS frameworks (e.g., Laudon & Laudon, *Management Information Systems*).
 
