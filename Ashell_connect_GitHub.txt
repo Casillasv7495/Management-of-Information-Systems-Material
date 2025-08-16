@@ -61,4 +61,8 @@ Steps:
 Summary: Well that is how you connect a-shell to your GitHub. To future me, I know you are going to want to thank past you (me) for taking the time to write this out, buy me a coffee or lunch if you want.
 
 Time is takes to set-up if successful: 5-10 minutes 
- 
+
+Links to the forums that I found useful:
+"https://forum.obsidian.md/t/mobile-automatic-sync-with-github-on-ios-for-free-via-a-shell/46150?page=2"
+it has links to other websites including the main GitHub Documentation on SSH, it is for Obsindian app, but it gave me the information to fix my issue.
+
